@@ -1,0 +1,79 @@
+[
+  {
+    "name": "France",
+    "monumentName": "Eiffel Tower",
+    "monumentImage": "Eiffel Tower",
+    "countryDescription": "France has been a center of culture, art and science for centuries. Its history spans from the Gauls through the Roman era, medieval kingdoms, the Renaissance, the Revolution of 1789 and the modern republic.",
+    "monumentDescription": "The Eiffel Tower, completed in 1889, is a wrought-iron lattice tower in Paris and one of the most recognizable structures in the world."
+  },
+  {
+    "name": "Italy",
+    "monumentName": "Colosseum",
+    "monumentImage": "Colosseum",
+    "countryDescription": "Italy's history includes the Roman Empire, which shaped law, government, architecture and culture across Europe. Italy is also renowned for the Renaissance.",
+    "monumentDescription": "The Colosseum in Rome is an ancient amphitheater known for gladiatorial contests and other public spectacles, built in the 1st century CE."
+  },
+  {
+    "name": "India",
+    "monumentName": "Taj Mahal",
+    "monumentImage": "Taj Mahal",
+    "countryDescription": "India has a long and diverse history with ancient civilizations, major empires, trade networks and a rich cultural and spiritual heritage.",
+    "monumentDescription": "The Taj Mahal is a 17th-century mausoleum in Agra built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal; it's a masterpiece of Mughal architecture."
+  },
+  {
+    "name": "United States",
+    "monumentName": "Statue of Liberty",
+    "monumentImage": "Statue of Liberty",
+    "countryDescription": "The United States formed through colonies, revolution and expansion, becoming a global economic and cultural power in the 20th century.",
+    "monumentDescription": "The Statue of Liberty, a gift from France, stands on Liberty Island in New York Harbor and is a symbol of freedom and democracy."
+  },
+  {
+    "name": "China",
+    "monumentName": "Great Wall",
+    "monumentImage": "Great Wall",
+    "countryDescription": "China's history stretches thousands of years with dynasties that advanced science, philosophy, art and governance; it remains one of the world's oldest continuous civilizations.",
+    "monumentDescription": "The Great Wall is a series of fortifications built across northern China to protect against invasions; it spans thousands of kilometers."
+  },
+  {
+    "name": "United Kingdom",
+    "monumentName": "Big Ben",
+    "monumentImage": "Big Ben",
+    "countryDescription": "The UK has a rich history from Roman Britain, through medieval kingdoms, empire-building and major cultural contributions in literature, science and politics.",
+    "monumentDescription": "Big Ben (the Elizabeth Tower) is an iconic clock tower at the north end of the Palace of Westminster in London."
+  },
+  {
+    "name": "Egypt",
+    "monumentName": "Pyramids of Giza",
+    "monumentImage": "Pyramids of Giza",
+    "countryDescription": "Ancient Egypt's civilization along the Nile produced monumental architecture, writing, and a complex religious system that influenced later cultures.",
+    "monumentDescription": "The Pyramids of Giza are ancient monumental tombs for pharaohs, built during Egypt's Old Kingdom and remain among the world's most remarkable structures."
+  },
+  {
+    "name": "Greece",
+    "monumentName": "Acropolis",
+    "monumentImage": "Acropolis",
+    "countryDescription": "Greece is the cradle of Western civilization, home to ancient philosophers, democratic institutions and classical art and architecture.",
+    "monumentDescription": "The Acropolis in Athens is an ancient citadel containing the Parthenon and other classical buildings significant to Greek heritage."
+  },
+  {
+    "name": "Spain",
+    "monumentName": "Sagrada Família",
+    "monumentImage": "Sagrada Família",
+    "countryDescription": "Spain's history includes Roman rule, Islamic Al-Andalus, medieval kingdoms and a global maritime empire that shaped languages and cultures worldwide.",
+    "monumentDescription": "The Sagrada Família in Barcelona is an extraordinary basilica designed by Antoni Gaudí, notable for its unique organic architecture."
+  },
+  {
+    "name": "Russia",
+    "monumentName": "Saint Basil's Cathedral",
+    "monumentImage": "Saint Basil's Cathedral",
+    "countryDescription": "Russia's history spans Kievan Rus', the Tsardom, the Russian Empire, Soviet era, and its modern federation with deep cultural and literary traditions.",
+    "monumentDescription": "Saint Basil's Cathedral in Moscow is famous for its colorful onion domes and is a symbol of Russian architecture and history."
+  },
+  {
+    "name": "Japan",
+    "monumentName": "Mount Fuji",
+    "monumentImage": "Mount Fuji",
+    "countryDescription": "Japan's history features ancient imperial courts, samurai culture, periods of isolation and rapid modernization into a leading industrial and cultural nation.",
+    "monumentDescription": "Mount Fuji is Japan's highest peak and an iconic symbol frequently depicted in art and pilgrimage, revered for its beauty."
+  },
+]
